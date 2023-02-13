@@ -181,3 +181,31 @@ Izzy's Ultimate Fishing Toolkit v1.40.exe - <u>SHA1:</u> D47B9FFD04F4CEBBD113E04
 <li><a href="https://github.com/RussDev7">RussDev7</a> - <b>[Code & Design]</b></li>
 <li><a href="https://steamcommunity.com/profiles/76561198225062332/">Coleyohley!</a> - <b>[Beta Tester]</b></li>
 </ul></details>
+
+<h1 align="center">
+  Hello Everyone! Update News!
+</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33048298/218598600-4faf7244-275f-4a08-92a9-e59585bf2a24.png" />
+</p>
+
+<p align="center">
+For everyone wounding if this still works in the current version of the game, that is a <b>NO</b>. Terraria <u>1.4</u> as I stated in my post will; has, patched the <u>unlimited lines</u> + <u>auto bait</u> bot (All Bait Methods). For TML users, this bot is still valid (TML Is 1.3 Still) and this post is <b>NOT OUTDATED</b>. For everyone who still owns 1.3, your bot will still work as they do not hot-patch hold versions.
+</p>
+
+<p align="center">
+  <b><u>=NEW VERSION -- Izzy's Fishing Bot v2.00=</u></b>
+</p>
+
+<p align="center">
+For everyone looking for the RAW version of the <u>bait bot</u> that will work for <b></u>all versions</u></b> I have stripped this bot and removed all the other </i>outdated</i> features. This will work for 1.3.x & 1.4.x +. If you have questions or requests feel free to reply to this comment with a quote and I will assist you. 
+</p>
+
+<p align="center">
+<a href="https://www.virustotal.com/gui/file/c453e1be2b60c1a306781abfcc5b41c87b3d638b7d737f844d81e31198908c2e/detection">_https://www.virustotal.com/gui/file/c453e1be2b60c1a306781abfcc5b41c87b3d638b7d737f844d81e31198908c2e/detection_</a>
+<a href="https://virusscan.jotti.org/en-US/filescanjob/tbjixj1rvp">_https://virusscan.jotti.org/en-US/filescanjob/tbjixj1rvp_</a>
+</p>
+<p align="center">
+~Enjoy! D.RUSS#2430
+</p>
