@@ -172,9 +172,9 @@ Changes since version V. 1.4.0.0
 <p></p><ul>
 <li><a href="https://virusscan.jotti.org/en-US/filescanjob/y8b979ervs">jotti</a></li>
 <li><a href="https://www.virustotal.com/gui/file-analysis/NjMzNGNmNmRmNGM4ODYyZDgwMjkyYTk3MTM4MjYyYmQ6MTU3MTc2NDgzNg==/detection">virustotal</a></li>
-<p></p>
+</ul><p></p>
 Izzy's Ultimate Fishing Toolkit v1.40.exe - <u>SHA1:</u> D47B9FFD04F4CEBBD113E04F7B7637CAA9C1D5B2
-<ul></details>
+</details>
 
 <details><summary>💾Credits💾</summary>
 <p></p><ul>
