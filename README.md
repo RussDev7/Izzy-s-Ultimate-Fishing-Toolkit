@@ -1,7 +1,7 @@
 
-<h1 align="center">
+<h2 align="center">
   ══╬ The 100% Undetectable Fishing Toolbox For Terraria! ╬══
-</h1>
+</h2>
 <p align="center" style="font-size:50px;">
   ┤ Now for public release! ├
 </p>
