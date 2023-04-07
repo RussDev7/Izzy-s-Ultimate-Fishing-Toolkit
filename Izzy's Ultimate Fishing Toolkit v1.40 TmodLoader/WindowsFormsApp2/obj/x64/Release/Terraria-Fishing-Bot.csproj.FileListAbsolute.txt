@@ -1,0 +1,10 @@
+Z:\Izzy's Ultimate Fishing Toolkit v1.40 TmodLoader\WindowsFormsApp2\bin\x64\Release\[Tmodloader] Izzy's Ultimate Fishing Toolkit v1.40.exe.config
+Z:\Izzy's Ultimate Fishing Toolkit v1.40 TmodLoader\WindowsFormsApp2\bin\x64\Release\[Tmodloader] Izzy's Ultimate Fishing Toolkit v1.40.exe
+Z:\Izzy's Ultimate Fishing Toolkit v1.40 TmodLoader\WindowsFormsApp2\bin\x64\Release\[Tmodloader] Izzy's Ultimate Fishing Toolkit v1.40.pdb
+Z:\Izzy's Ultimate Fishing Toolkit v1.40 TmodLoader\WindowsFormsApp2\obj\x64\Release\WindowsFormsApp2.Form1.resources
+Z:\Izzy's Ultimate Fishing Toolkit v1.40 TmodLoader\WindowsFormsApp2\obj\x64\Release\WindowsFormsApp2.Properties.Resources.resources
+Z:\Izzy's Ultimate Fishing Toolkit v1.40 TmodLoader\WindowsFormsApp2\obj\x64\Release\Terraria-Fishing-Bot.csproj.GenerateResource.cache
+Z:\Izzy's Ultimate Fishing Toolkit v1.40 TmodLoader\WindowsFormsApp2\obj\x64\Release\Terraria-Fishing-Bot.csproj.CoreCompileInputs.cache
+Z:\Izzy's Ultimate Fishing Toolkit v1.40 TmodLoader\WindowsFormsApp2\obj\x64\Release\[Tmodloader] Izzy's Ultimate Fishing Toolkit v1.40.exe
+Z:\Izzy's Ultimate Fishing Toolkit v1.40 TmodLoader\WindowsFormsApp2\obj\x64\Release\[Tmodloader] Izzy's Ultimate Fishing Toolkit v1.40.pdb
+Z:\Izzy's Ultimate Fishing Toolkit v1.40 TmodLoader\WindowsFormsApp2\obj\x64\Release\Terraria-Fishing-Bot.csproj.AssemblyReference.cache
