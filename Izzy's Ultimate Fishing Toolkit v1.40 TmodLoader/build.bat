@@ -1,8 +1,8 @@
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::Install IzzysFishingToolkit Via MSBuild                        ::
-::Gihub https://github.com/RussDev7/CoreKeepersWorkshop          ::
-::Devoloped, Maintained, And Sponsored By D.RUSS#2430            ::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::Install IzzysFishingBot Via MSBuild                                ::
+::Gihub https://github.com/RussDev7/Izzy-s-Ultimate-Fishing-Toolkit  ::
+::Devoloped, Maintained, And Sponsored By D.RUSS#2430                ::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 @ECHO OFF
 
 Rem | Set Params
