@@ -69,11 +69,6 @@ There us a pull lines option for if you want to pull in all the lines after <u>x
 Select your desired bait catching method. The <b>Flaregun + Flowerboots</b> method is the fastest method but requires Flares. The <b>GoldenNet + Flowerboots</b> method is slower but unlimited. If using Flaregun Method, you can select a custom amount of flares to shoot on the ground.
 </details></details>
 
-<details><summary>🗽My Reason For Public Release🗽</summary>
-<p></p>
-My main goal was to release it at 1.4. however; I'm afraid when 1.4 drops, They will patch the infinite fishing line glitch, And thus loosing allot of possible attraction it would otherwise have gotten. Already know people are begging me to sell, even for large amounts of money, however I decided to decline them all and release it for free, hope y'all enjoy.
-</details>
-
 <details><summary>📋Patch Notes📋</summary>
   
 ```javascript
