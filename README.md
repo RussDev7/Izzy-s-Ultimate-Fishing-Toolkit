@@ -203,5 +203,5 @@ For everyone looking for the RAW version of the <u>bait bot</u> that will work f
 <a href="https://virusscan.jotti.org/en-US/filescanjob/tbjixj1rvp">_https://virusscan.jotti.org/en-US/filescanjob/tbjixj1rvp_</a>
 </p>
 <p align="center">
-~Enjoy! D.RUSS#2430
+~Enjoy! Dannyruss
 </p>
